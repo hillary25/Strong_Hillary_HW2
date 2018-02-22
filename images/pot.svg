@@ -1,0 +1,31 @@
+<svg id="pot" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>pot</title>
+  <circle id="circle3" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="body3">
+    <polygon id="pot-2" data-name="pot" class="cls-1" points="65 127 75 190 138 190 146 127 160 127 160 105 105 105 50 105 50 127 65 127"/>
+    <line id="line2" class="cls-1" x1="65" y1="127" x2="149.34" y2="127"/>
+    <line id="line1" class="cls-1" x1="72.83" y1="176.3" x2="139.74" y2="176.3"/>
+  </g>
+  <g id="detail3">
+    <path id="flower3" class="cls-1" d="M125,103S97,61,71,60c0,0-12,20,7,23s28,1,33-2,2-31-22-32S66.82,70.12,68,76" transform="translate(-13 -13)"/>
+    <path id="flower2" class="cls-2" d="M141.28,81.46S185,86,181,69s-15-25-31-12S141.57,81.92,141.28,81.46Z" transform="translate(-13 -13)"/>
+    <path id="flower1" class="cls-2" d="M119,116s27-59,58-56" transform="translate(-13 -13)"/>
+  </g>
+</svg>

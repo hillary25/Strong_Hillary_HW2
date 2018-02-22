@@ -1,0 +1,38 @@
+<svg id="honey" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 8px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <title>honey</title>
+  <circle id="circle9" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="body9">
+    <rect id="jar" class="cls-2" x="60.05" y="68.29" width="105.9" height="116.71" rx="12" ry="12"/>
+    <rect id="bar" class="cls-2" x="46" y="47.53" width="134" height="20" rx="10" ry="10"/>
+    <path id="wrapping" class="cls-3" d="M76,82S65.19,92.12,66,101s25.19,1.84,26-3,11.35,10.61,17,9,12-7.16,12-12,14.54,15.23,21,12,13-6.54,13-13,16.33,16.17,24,12c13.14-7.15,6.46-22.39,0-24S76,82,76,82Z" transform="translate(-13 -13)"/>
+  </g>
+  <g id="detail9">
+    <polygon id="honey-2" data-name="honey" class="cls-4" points="94.1 130.41 77.15 130.41 71.5 141.89 77.15 156.65 94.1 156.65 101.16 143.53 94.1 130.41"/>
+    <polygon id="honey-3" data-name="honey" class="cls-4" points="122.02 114.21 105.07 114.21 99.42 125.69 105.07 140.44 122.02 140.44 129.08 127.33 122.02 114.21"/>
+    <polygon id="honey-4" data-name="honey" class="cls-4" points="149.94 131.76 132.99 131.76 127.34 143.24 132.99 158 149.94 158 157 144.88 149.94 131.76"/>
+  </g>
+</svg>

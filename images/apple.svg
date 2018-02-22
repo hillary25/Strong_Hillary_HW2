@@ -1,0 +1,30 @@
+<svg id="apple" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>apple</title>
+  <circle id="circle1" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="detail1">
+    <path id="detail1-2" data-name="detail1" class="cls-1" d="M86,112s-10,22,4,29S100,121,86,112Z" transform="translate(-13 -13)"/>
+  </g>
+  <g id="body1">
+    <path id="apple-2" data-name="apple" class="cls-2" d="M125,97s49-27,58-7,2,102-26,111c-18.24,5.86-26.3,2.39-29.7-.75a5.34,5.34,0,0,0-6.34-.67c-7.69,4.54-24.66,12.71-36,4.42C70,193,16,38,125,97Z" transform="translate(-13 -13)"/>
+    <path id="stem2" class="cls-1" d="M125,95s-3-47,7-49" transform="translate(-13 -13)"/>
+    <path id="stem1" class="cls-1" d="M129.42,72.31a1.45,1.45,0,0,1-1.37-2.5C133.69,65.39,142.37,59.37,145,62,147.85,64.85,137,69.74,129.42,72.31Z" transform="translate(-13 -13)"/>
+  </g>
+</svg>

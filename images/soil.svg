@@ -1,0 +1,41 @@
+<svg id="soil" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>soil</title>
+  <circle id="circle4" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="body4">
+    <path id="bag" class="cls-2" d="M71.5,80.5S54,39,85.5,70.5c0,0,24.5-11.5,82.5-.5,0,0,22-25,15,7s5,82,1,105c0,0,15,32-11,11,0,0-66,5-81,2,0,0-30,24-16-7C76,188,62,179,71.5,80.5Z" transform="translate(-13 -13)"/>
+  </g>
+  <g id="detail4">
+    <line id="detail4-2" data-name="detail4" class="cls-2" x1="55" y1="127" x2="80" y2="104"/>
+    <path id="detail4-3" data-name="detail4" class="cls-2" d="M70,118s23,16,26,24" transform="translate(-13 -13)"/>
+    <line id="detail4-4" data-name="detail4" class="cls-3" x1="168.28" y1="105" x2="147" y2="123"/>
+    <line id="detail4-5" data-name="detail4" class="cls-3" x1="149" y1="104" x2="170.16" y2="129"/>
+    <path id="detail4-6" data-name="detail4" class="cls-3" d="M127,168s16-29-3-64" transform="translate(-13 -13)"/>
+    <path id="detail4-7" data-name="detail4" class="cls-2" d="M129,118s-11-5-16,0,11,14,18,7" transform="translate(-13 -13)"/>
+    <path id="detail4-8" data-name="detail4" class="cls-2" d="M134.3,147.16S144,128,150,142,134.3,147.16,134.3,147.16Z" transform="translate(-13 -13)"/>
+    <path id="detail4-9" data-name="detail4" class="cls-2" d="M131,116.79S130,98,140,100,138,115.58,131,116.79Z" transform="translate(-13 -13)"/>
+  </g>
+</svg>

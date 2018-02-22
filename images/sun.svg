@@ -1,0 +1,34 @@
+<svg id="sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <title>sun</title>
+  <circle id="circle10" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="body10">
+    <circle id="sun-2" data-name="sun" class="cls-1" cx="112" cy="90" r="40"/>
+    <rect id="field" class="cls-1" x="40" y="112" width="143" height="61"/>
+  </g>
+  <g id="detail10">
+    <line id="line" class="cls-1" x1="64.69" y1="112" x2="43" y2="170"/>
+    <line id="line-2" data-name="line" class="cls-1" x1="159.91" y1="112" x2="180.53" y2="173"/>
+    <line id="line-3" data-name="line" class="cls-1" x1="111.5" y1="112" x2="111.5" y2="173"/>
+    <line id="line-4" data-name="line" class="cls-1" x1="87.94" y1="112" x2="74.78" y2="173"/>
+    <line id="line-5" data-name="line" class="cls-1" x1="134.9" y1="112" x2="146" y2="170"/>
+    <line id="line-6" data-name="line" class="cls-1" x1="183" y1="98" x2="166" y2="98"/>
+    <line id="line-7" data-name="line" class="cls-1" x1="163" y1="80" x2="181" y2="74"/>
+    <line id="line-8" data-name="line" class="cls-1" x1="154" y1="59" x2="170" y2="50"/>
+    <line id="line-9" data-name="line" class="cls-1" x1="137" y1="45" x2="146" y2="31"/>
+    <line id="line-10" data-name="line" class="cls-1" x1="112" y1="38" x2="112" y2="22"/>
+    <line id="line-11" data-name="line" class="cls-1" x1="88" y1="42" x2="81" y2="31"/>
+    <line id="line-12" data-name="line" class="cls-1" x1="71" y1="58" x2="61" y2="50"/>
+    <line id="line-13" data-name="line" class="cls-1" x1="62" y1="98" x2="48" y2="98"/>
+    <line id="line-14" data-name="line" class="cls-1" x1="62" y1="77" x2="51" y2="74"/>
+  </g>
+</svg>

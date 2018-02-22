@@ -1,0 +1,30 @@
+<svg id="flower" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <title>flower</title>
+  <circle id="circle7" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="body7">
+    <path id="body7-2" data-name="body7" class="cls-2" d="M48.5,185.5s15-24,40-15c0,0,15.6-15.6,32.5-14.62,7.68.44,15.62,4.31,22.5,14.62,0,0,41-26,51,15" transform="translate(-13 -13)"/>
+  </g>
+  <g id="detail7">
+    <path id="leaf" class="cls-2" d="M121.5,127.5s7-16,16-11-14,16-16,15" transform="translate(-13 -13)"/>
+    <ellipse id="circle" class="cls-1" cx="119.5" cy="60" rx="10.5" ry="11"/>
+    <path id="flower-2" data-name="flower" class="cls-2" d="M130.54,84S121,94,136,100s8-15,4-16,17,10,20,0-4-19-15-14,20-8,15-15-22-2-23,5-1-20-14-15-5,19-1,19-26-8-21,9,18.5,12.5,21.5,11.5c0,0-8,24-4,40s9,26.67,7,31.33" transform="translate(-13 -13)"/>
+  </g>
+</svg>
